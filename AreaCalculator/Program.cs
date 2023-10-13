@@ -4,6 +4,10 @@ namespace AreaCalculator
 {
     public static class Program
     {
+        public static void Main()
+        {
+            
+        }
         public static int Rectangle(int length,int breadth)
         {
             return length * breadth;
